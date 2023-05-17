@@ -1,2 +1,2 @@
 # Deep-Learning
-This is a folder that contains all the learning projects made from The Complete Self-Driving Car Course - Applied Deep Learning course
+This is a folder that contains some AI learning projects, including the behavioural cloning model for a self driving car on Udacity's car simulator
